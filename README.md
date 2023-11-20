@@ -7,7 +7,7 @@
 
 - 🌱 Estou atualmente aprendendo **React JS**
 
-- 👨‍💻 Meu portifólio está disponível em [https://beatrizcalistro.web.app/portifolio.html](https://beatrizcalistro.web.app/portifolio.html)
+- 👨‍💻 Meu portifólio está disponível em [https://beatrizcalistro.web.app/portifolio.html](https://beatrizcalistro.web.app/projetos.html)
 
 - 📝 Minhas publicações e artigos estão disponíveis em [https://beatrizcalistro.web.app/blog.html](https://beatrizcalistro.web.app/blog.html)
 
