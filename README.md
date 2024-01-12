@@ -7,13 +7,13 @@
 
 - 🌱 Estou atualmente aprendendo **React JS**
 
-- 👨‍💻 Meu portifólio está disponível em [nome local](link)
+- 👨‍💻 Meu portifólio está disponível em [meu website](beatrizcalistro.web.app/portifolio.html)
 
-- 📝 Minhas publicações e artigos estão disponíveis em [nome blog](link blog)
+- 📝 Minhas publicações e artigos estão disponíveis em [meu blog](Beatrizcalistro.web.app/blog.html)
 
 - 📫 Meu e-mail **beatrizcalistroo@gmail.com**
 
-- 📄 Veja minhas habilidades em [nome site](link)
+- 📄 Veja minhas habilidades em [meu currículo](beatrizcalistro.web.app/curriculo.html)
 
 - ⚡ Curiosidade: **Eu sou muito curiosa**
 
