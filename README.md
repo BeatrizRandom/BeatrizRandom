@@ -7,13 +7,13 @@
 
 - 🌱 Estou atualmente aprendendo **React JS**
 
-- 👨‍💻 Meu portifólio está disponível em [meu website](Camilafrigeri.web.app/portifolio.html)
+- 👨‍💻 Meu portifólio está disponível em [meu website](Camilafrigeri.web.app/projetos.html)
 
-- 📝 Minhas publicações e artigos estão disponíveis em [meu blog](camilafrigeri.web.app/blog.html)
+- 📝 Minhas publicações, artigos e tutoriais estão disponíveis em [meu blog](camilafrigeri.web.app/tutoriais.html)
 
 - 📫 Meu e-mail **camilacalistrofrigeri@gmail.com**
 
-- 📄 Veja minhas habilidades em [meu currículo](camilafrigeri.web.app/curriculo.html)
+- 📄 Veja minhas habilidades em [meu currículo](camilafrigeri.web.app/sobre.html)
 
 - ⚡ Curiosidade: **Eu sou muito curiosa**
 
