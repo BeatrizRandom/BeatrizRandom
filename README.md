@@ -11,7 +11,7 @@
 
 - 📝 Minhas publicações, artigos e tutoriais estão disponíveis em [meu blog](camilafrigeri.web.app/tutoriais.html)
 
-- 📫 Meu e-mail **camilacalistrofrigeri@gmail.com**
+- 📫 Meu e-mail **camilafrigeri@proton.me**
 
 - 📄 Veja minhas habilidades em [meu currículo](camilafrigeri.web.app/sobre.html)
 
