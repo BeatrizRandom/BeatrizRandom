@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=camilafrigeri&label=Profile%20views&color=0e75b6&style=flat" alt="Camilafrigeri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beatrizcalistro" alt="Camilafrigeri" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=camilafrigeri" alt="Camilafrigeri" /></a> </p>
 
 - 🌱 Estou atualmente aprendendo **React JS**
 
